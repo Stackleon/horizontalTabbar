@@ -5,6 +5,7 @@
     android:padding="10dp"
     android:button="@null"
     android:background="@drawable/selector_rbt"
+    android:layout_weight="1"
     android:text="hello"
     android:textSize="18sp"
     android:gravity="center"
